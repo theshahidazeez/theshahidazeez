@@ -14,10 +14,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/theshahidazeez/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/theshahidazeez)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/theshahidazeez)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/YOUR_LEETCODE)
-[![Codeforces](https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/YOUR_CODEFORCES)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/theshahidazeez)
+[![Codeforces](https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/theshahidazeez)
 
 </div>
 
