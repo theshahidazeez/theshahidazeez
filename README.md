@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Shahid Azeez
 
-### Electrical Engineer | AI & Full Stack Enthusiast | Competitive Programmer
+### CS Engineer | AI & Full Stack Enthusiast | Competitive Programmer
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=IIT+Madras+Student;Aspiring+Software+Engineer;AI+%7C+ML+Developer;Problem+Solver+%7C+Coder)
 
