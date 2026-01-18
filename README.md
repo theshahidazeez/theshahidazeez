@@ -23,7 +23,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=theshahidazeez&style=for-the-badge)
 
 ---
 
